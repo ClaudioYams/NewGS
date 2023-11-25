@@ -1,0 +1,12 @@
+br\com\sofia\dominio\user\controller\UserInfoController.class
+br\com\sofia\dominio\user\controller\UserController.class
+br\com\sofia\dominio\consultas\repository\ConsultasRepository.class
+br\com\sofia\dominio\user\dto\UserInfoDTO.class
+br\com\sofia\SofiaApplication.class
+br\com\sofia\dominio\consultas\entity\Consulta.class
+br\com\sofia\dominio\user\dto\UserDTO.class
+br\com\sofia\dominio\user\entity\User.class
+br\com\sofia\dominio\user\repository\UserRepository.class
+br\com\sofia\dominio\consultas\dto\ConsultaDTO.class
+br\com\sofia\security\WebSecurityConfig.class
+br\com\sofia\dominio\consultas\controller\ConsultasController.class
